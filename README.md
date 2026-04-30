@@ -1,4 +1,4 @@
-<h1 align="center">⚡ JasoonGT ⚡</h1>
+<h1 align="center">⚡ 𝓢𝓔𝓝𝓙𝓤 ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Estudiante+de+Ingeniería+en+Sistemas;Backend+Developer;Creador+de+Bots;Siempre+aprendiendo+🚀" />
